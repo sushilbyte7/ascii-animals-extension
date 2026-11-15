@@ -13,8 +13,8 @@
 - **Dynamic Interactive Animals:** 7 beautiful animated ASCII creatures with realistic physics, wing flapping, and behavioral AI (Butterflies, Koi, Jellyfish, Dragonflies, Frogs, Cranes, Crabs).
 - **Multiple Creature Modes:** Switch between different animals anytime using the Tweaks panel.
 - **Personalized Greeting:** Prompts for your name on first install (`Good morning, [Name]`), saved locally in your browser. Click on your name anytime to edit or change it.
-- **Auto Browser Shortcuts:** Automatically fetches and displays your browser's top visited sites (`chrome.topSites`). Right-click any shortcut to **Edit** (custom name/URL) or **Remove** it.
-- **Multi-Browser Auto-Detect:** Automatically displays the native browser mark for **Brave**, **Google Chrome**, or **Microsoft Edge** with zero external image files.
+- **Auto Browser Shortcuts:** Automatically fetches and displays your browser's top visited sites (`topSites`). Right-click any shortcut to **Edit** (custom name/URL) or **Remove** it.
+- **Multi-Browser Auto-Detect:** Automatically displays the native browser mark for **Brave**, **Google Chrome**, or **Microsoft Edge** with zero external image files; Firefox uses the extension icon.
 - **Compact ASCII Clock:** Character-grid clock featuring 12-hour time, AM/PM, and subtle ambient glow.
 - **Liquid Glass Search Bar:** Minimalist search pill powered by Google search.
 - **Interactive Ripples:** Click anywhere on the canvas to startle the creatures and watch water ripples smoothly dissipate into a clean, dark grid.
@@ -47,20 +47,21 @@ The **Tweaks** button sits at the bottom-right corner of the page. Click it to r
 
 ---
 
-## 🚀 Installation (Brave / Chrome / Edge)
+## 🚀 Installation (Firefox / Brave / Chrome / Edge)
 
 1. Clone or download this repository to your computer:
    ```bash
    git clone https://github.com/sushilbyte7/ascii-animals-extension.git
    ```
 2. Open your browser's Extensions page:
+   - **Firefox:** `about:debugging#/runtime/this-firefox`
    - **Brave:** `brave://extensions`
    - **Chrome:** `chrome://extensions`
    - **Edge:** `edge://extensions`
-3. Toggle **Developer mode** to **ON** (top-right corner).
-4. Click **Load unpacked** (top-left).
-5. Select this `ascii-animals-extension` folder.
-6. Open a new tab (`Ctrl + T`) — enter your name and enjoy!
+3. In Firefox, click **Load Temporary Add-on...** and select `manifest.json`. In Chromium browsers, toggle **Developer mode** to **ON**, then click **Load unpacked** and select this `ascii-animals-extension` folder.
+4. Open a new tab (`Ctrl + T`) — enter your name and enjoy!
+
+Firefox temporary add-ons are removed when Firefox closes. For a persistent Firefox installation, submit the extension to addons.mozilla.org or install a signed Firefox build.
 
 ---
 
