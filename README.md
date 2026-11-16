@@ -6,9 +6,9 @@
 
 ## 🎬 Live Preview
 
-<video src="https://github.com/sushilbyte7/ascii-animals-extension/raw/main/screenshots/showcase.mp4" controls muted playsinline width="100%"></video>
+[![Live preview — butterflies drifting across the new tab page](screenshots/showcase.gif)](https://github.com/sushilbyte7/ascii-animals-extension/blob/main/screenshots/showcase.mp4)
 
-Switch animals from the hidden Tweaks panel (bottom-right button), click anywhere to startle them, and retune direction and speed live — a recording of the real new tab page, not a mockup.
+Switch animals from the hidden Tweaks panel (bottom-right button), click anywhere to startle them, and retune direction and speed live — a recording of the real new tab page, not a mockup. [▶️ Watch the full 1-minute showcase video](https://github.com/sushilbyte7/ascii-animals-extension/blob/main/screenshots/showcase.mp4)
 
 ---
 
