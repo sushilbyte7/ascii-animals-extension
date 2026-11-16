@@ -29,18 +29,33 @@ Switch animals from the hidden Tweaks panel (bottom-right button), click anywher
 
 ## 🚀 Installation (Brave / Chrome / Edge)
 
-1. Clone or download this repository to your computer:
-   ```bash
-   git clone https://github.com/sushilbyte7/ascii-animals-extension.git
-   ```
+### Method 1 — Drag & drop the release ZIP (recommended, no unzip needed)
+
+1. Download the latest `ascii-aesthetic-vX.Y.zip` from [GitHub Releases](https://github.com/sushilbyte7/ascii-animals-extension/releases).
 2. Open your browser's Extensions page:
    - **Brave:** `brave://extensions`
    - **Chrome:** `chrome://extensions`
    - **Edge:** `edge://extensions`
 3. Toggle **Developer mode** to **ON** (top-right corner).
-4. Click **Load unpacked** (top-left).
-5. Select this `ascii-animals-extension` folder.
-6. Open a new tab (`Ctrl + T`) — enter your name and enjoy!
+4. Drag the ZIP file onto the Extensions page — when you see **Drop to install**, release the mouse. The browser unpacks and installs it in one step; no need to unzip.
+5. Open a new tab (`Ctrl + T`) — enter your name and enjoy!
+
+### Method 2 — Load unpacked (if drag & drop doesn't work in your browser)
+
+1. Download the release ZIP, then extract it into a **new empty folder** (right-click → Extract All creates one for you). Don't use "Extract Here" in Downloads — the files will scatter, since the ZIP keeps everything at the top level so drag & drop install works.
+2. Open the Extensions page, turn **Developer mode** ON, and click **Load unpacked** (top-left).
+3. Select the folder you extracted into.
+4. Don't delete or move that folder afterwards — the browser needs it to keep the extension working.
+5. Open a new tab (`Ctrl + T`) — enter your name and enjoy!
+
+### From source (developers)
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/sushilbyte7/ascii-animals-extension.git
+   ```
+2. Open the Extensions page, turn **Developer mode** ON, click **Load unpacked**, and select the `ascii-animals-extension` folder.
+3. Open a new tab (`Ctrl + T`) — enter your name and enjoy!
 
 ---
 
@@ -54,7 +69,7 @@ Switch animals from the hidden Tweaks panel (bottom-right button), click anywher
 
 ## ⬇️ Downloads
 
-- **Stable releases:** [GitHub Releases](https://github.com/sushilbyte7/ascii-animals-extension/releases) — download the latest `ascii-aesthetic-vX.Y.zip`, unzip it, and load it unpacked (see Installation above).
+- **Stable releases:** [GitHub Releases](https://github.com/sushilbyte7/ascii-animals-extension/releases) — download the latest `ascii-aesthetic-vX.Y.zip` and drag it onto your Extensions page — no unzip needed (see Installation above).
 
 ---
 
