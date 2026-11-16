@@ -1,10 +1,14 @@
 # ASCII Animals — New Tab (Browser Extension)
 
-> ASCII animals as your new tab page — butterflies, koi, jellyfish, dragonflies, frogs, cranes, and crabs, featuring a personalized time-of-day greeting, interactive click ripples, automatic browser shortcuts, and a liquid-glass search bar.>
+> ASCII animals as your new tab page — butterflies, koi, jellyfish, dragonflies, frogs, cranes, and crabs, featuring a personalized time-of-day greeting, interactive click ripples, automatic browser shortcuts, and a liquid-glass search bar.
 
-**Live demo: [ascii-animals-extension.antideploy.app](https://ascii-animals-extension.antideploy.app)
+**Live demo:** [ascii-animals-extension.antideploy.app](https://ascii-animals-extension.antideploy.app)
 
-![ASCII Animals New Tab Preview](screenshots/preview.png)
+## 🎬 Live Preview
+
+<video src="https://github.com/sushilbyte7/ascii-animals-extension/raw/main/screenshots/showcase.mp4" controls muted playsinline width="100%"></video>
+
+Switch animals from the hidden Tweaks panel (bottom-right button), click anywhere to startle them, and retune direction and speed live — a recording of the real new tab page, not a mockup.
 
 ---
 
@@ -19,31 +23,6 @@
 - **Liquid Glass Search Bar:** Minimalist search pill powered by Google search.
 - **Interactive Ripples:** Click anywhere on the canvas to startle the creatures and watch water ripples smoothly dissipate into a clean, dark grid.
 - **Tweaks Control Panel:** Click the settings icon at the bottom-right corner to customize animal types, counts, speeds, movement, and visual themes.
-
----
-
-## 📸 Screenshots & Animal Showcase
-
-### 🐾 Creature Varieties
-
-| 🦋 Butterflies | 🐸 Frogs |
-| :---: | :---: |
-| ![Butterflies](screenshots/preview.png) | ![Frogs](screenshots/frogs.png) |
-
-| 🦀 Crabs | 🌊 Interactive Click Ripple |
-| :---: | :---: |
-| ![Crabs](screenshots/crabs.png) | ![Click Ripple](screenshots/click-ripple.png) |
-
-### ⚙️ First-Time Setup
-![First-Time Name Setup](screenshots/name-modal.png)
-
-### 🎛️ Tweaks Panel
-
-The **Tweaks** button sits at the bottom-right corner of the page. Click it to reveal the hidden animal panel, where you can switch animals and fine-tune movement and flight settings (density, direction, speed, size, flutter, glide and more).
-
-![Tweaks button](screenshots/tweaks-button.png)
-
-![Tweaks panel](screenshots/tweaks-panel.png)
 
 ---
 
