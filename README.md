@@ -1,6 +1,6 @@
-# ASCII Animals — New Tab (Browser Extension)
+# ASCII Aesthetic — New Tab (Browser Extension)
 
-> ASCII animals as your new tab page — butterflies, koi, jellyfish, dragonflies, frogs, cranes, and crabs, featuring a personalized time-of-day greeting, interactive click ripples, automatic browser shortcuts, and a liquid-glass search bar.
+> A lightweight aesthetic new tab extension — living ASCII animals drift across your screen: butterflies, koi, jellyfish, dragonflies, frogs, cranes, and crabs, with a personalized time-of-day greeting, an ASCII clock, a liquid-glass search bar, and your shortcuts. Not a wallpaper — your new tab, alive.
 
 **Live demo:** [ascii-animals-extension.antideploy.app](https://ascii-animals-extension.antideploy.app)
 
@@ -23,6 +23,7 @@ Switch animals from the hidden Tweaks panel (bottom-right button), click anywher
 - **Liquid Glass Search Bar:** Minimalist search pill powered by Google search.
 - **Interactive Ripples:** Click anywhere on the canvas to startle the creatures and watch water ripples smoothly dissipate into a clean, dark grid.
 - **Tweaks Control Panel:** Click the settings icon at the bottom-right corner to customize animal types, counts, speeds, movement, and visual themes.
+- **Lightweight by Design:** Zero runtime dependencies and a tiny footprint — your new tab stays fast and your browser stays light.
 
 ---
 
@@ -53,7 +54,7 @@ Switch animals from the hidden Tweaks panel (bottom-right button), click anywher
 
 ## ⬇️ Downloads
 
-- **Stable releases:** [GitHub Releases](https://github.com/sushilbyte7/ascii-animals-extension/releases) — download the latest `ascii-animals-extension-vX.Y.zip`, unzip it, and load it unpacked (see Installation above).
+- **Stable releases:** [GitHub Releases](https://github.com/sushilbyte7/ascii-animals-extension/releases) — download the latest `ascii-aesthetic-vX.Y.zip`, unzip it, and load it unpacked (see Installation above).
 
 ---
 
