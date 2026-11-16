@@ -27,7 +27,7 @@ jobs:
       - name: Build release ZIP (without documentation screenshots)
         run: |
           VERSION="${GITHUB_REF_NAME}"
-          ZIP="ascii-animals-extension-${VERSION}.zip"
+          ZIP="ascii-aesthetic-${VERSION}.zip"
           echo "ZIP_NAME=${ZIP}" >> "$GITHUB_ENV"
           # Explicit allowlist: only what the extension needs to run.
           # screenshots/ is README documentation only and is left out.
