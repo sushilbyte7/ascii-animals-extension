@@ -4,6 +4,8 @@
 
 **Live demo:** [ascii-animals-extension.antideploy.app](https://ascii-animals-extension.antideploy.app)
 
+[![Get it on Orion Store](https://raw/githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=ascii-aesthetic-new-tab)
+
 ## 🎬 Live Preview
 
 ![Live preview — switch animals from Tweaks, click to startle them, and retune direction and speed live](screenshots/showcase.gif)
