@@ -4,7 +4,7 @@
 
 **Live demo:** [ascii-animals-extension.antideploy.app](https://ascii-animals-extension.antideploy.app)
 
-[![Get it on Orion Store](orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=ascii-aesthetic-new-tab)
+<a href="https://rookieenough.github.io/Orion-Data/app/?id=ascii-aesthetic-new-tab"><img src="orion-badge.png" alt="Get it on Orion Store" width="200"></a>
 
 ## 🎬 Live Preview
 
